@@ -3,7 +3,7 @@ genomes of pure and hybrid yeast species &amp; gold standard phylogeny of pure s
 
 
 
-##What is in this archive?
+## What is in this archive?
 
 1. `genomes` directory contains genomes and three txt files:
 
