@@ -1,6 +1,7 @@
 # yeast genomes (yeast-genomes.tar.bz2)
 genomes of pure and hybrid yeast species &amp; gold standard phylogeny of pure species
 
+[![DOI](https://zenodo.org/badge/278435159.svg)](https://zenodo.org/badge/latestdoi/278435159)
 
 
 ## What is in this archive?
